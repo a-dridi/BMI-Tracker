@@ -14,7 +14,7 @@ This application is monolingual and in English only. If you want to translate th
 ## Installation
 ### Downloading this application as an exectable.
 This application is available as an exe file version or with an installer for Windows.
-Please check the Release page of this Github project.
+Please check the Releases page of this Github project: https://github.com/a-dridi/BMI-Tracker/releases
 
 ### Recompile this application as an executable
 You can create an executable yourself for Windows or Mac OS with Pyinstaller or Cx_freeze. 
