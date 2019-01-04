@@ -24,6 +24,8 @@ If you use Pyinstaller then you can use the following command in the root folder
 pyinstaller --onefile --windowed --add-data="data/;." --add-data="img/;." --add-data="BMITracker/;." --icon="icon.ico" Bmitracker.py
 ```
 
+## Video about the application
+https://www.youtube.com/watch?v=z0OMvD_dHlg
 
 ## Authors
 
